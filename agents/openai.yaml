@@ -1,0 +1,13 @@
+interface:
+  display_name: AI 市场与 Builder 简报
+  short_description: 追踪 AI 市场与 Builder，推荐当前值得体验的产品
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+  default_prompt: 使用 $follow-builders 生成最新中文 AI 市场与 Builder 简报，并推荐 2–3 款适合我的 AI 产品。
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
