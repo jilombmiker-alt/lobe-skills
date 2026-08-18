@@ -1,0 +1,7 @@
+interface:
+  display_name: "Prompt Skill"
+  short_description: "Design reusable prompts from product goals"
+  default_prompt: "Use $prompt-skill to analyze my product goal, search similar public prompts, identify the highest-value workflow, and deliver System Prompt, User Prompt, product-stage placement, exceptions, sources, and validation tests."
+
+policy:
+  allow_implicit_invocation: true
