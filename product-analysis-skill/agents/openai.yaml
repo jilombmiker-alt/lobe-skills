@@ -1,4 +1,4 @@
 interface:
   display_name: "产品拆解skill"
-  short_description: "基于页面证据拆解用户旅程、Agent 契约与提示词"
-  default_prompt: "Use $product-analysis-skill to analyze these product screenshots."
+  short_description: "从多源产品材料重建流程、状态、决策与可迁移机制"
+  default_prompt: "Use $product-analysis-skill to reverse-engineer this product from the supplied materials."
