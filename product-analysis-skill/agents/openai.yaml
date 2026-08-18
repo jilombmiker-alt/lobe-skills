@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品拆解skill"
+  short_description: "基于页面证据拆解用户旅程、Agent 契约与提示词"
+  default_prompt: "Use $product-analysis-skill to analyze these product screenshots."
